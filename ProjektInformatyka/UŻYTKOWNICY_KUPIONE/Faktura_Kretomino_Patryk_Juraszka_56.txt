@@ -1,0 +1,7 @@
+Faktura dla zakupionej książki
+
+Tytuł: Kretomino
+Autor: Marek jakis
+Ilość: 5
+Kategoria: MarkowaKsiazka
+Cena: 100

@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.Logowanie.resources
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.CopyComplete
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.MainForm.resources
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.Rejestracja.resources
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.AdminLogowanie.resources
+C:\Users\User\Desktop\AplikacjaDoZarządzaniaZadaniami\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.AdminForm.resources
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.AdminForm.resources
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.AdminLogowanie.resources
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.Logowanie.resources
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.MainForm.resources
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.Rejestracja.resources
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.CopyComplete
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.AssemblyReference.cache
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.AdminForm.resources
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.AdminLogowanie.resources
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.Logowanie.resources
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.MainForm.resources
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.Rejestracja.resources
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.GenerateResource.cache
+E:\AiR SEMESTR 1\AplikacjaDoKupnaKsiążek\ProjektInformatyka\ProjektInformatyka\x64\Debug\ProjektInformatyka.vcxproj.CopyComplete

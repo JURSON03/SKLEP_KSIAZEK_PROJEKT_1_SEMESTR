@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Recenzje]
+(
+	[Id] INT NOT NULL PRIMARY KEY
+)

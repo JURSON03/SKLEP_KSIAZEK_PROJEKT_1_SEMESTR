@@ -1,0 +1,8 @@
+Faktura dla zakupionej książki
+
+Tytuł: Kordian
+Autor: Juliusz Słowacki
+Ilość: 1
+Kategoria: Język Polski
+Cena: 200
+Data: 22.01.2024 22:50:33

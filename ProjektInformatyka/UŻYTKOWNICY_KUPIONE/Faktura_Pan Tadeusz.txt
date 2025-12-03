@@ -1,0 +1,8 @@
+Faktura dla zakupionej książki
+
+Tytuł: Pan Tadeusz
+Autor: Adam Mickiewicz
+Ilość: 1
+Kategoria: Język Polski
+Cena: 80
+Data: 16.01.2024 01:42:41

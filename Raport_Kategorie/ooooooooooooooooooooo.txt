@@ -1,0 +1,18 @@
+Id        nazwa                         tytuł                         ilość     kategoria                     UserID    Data                     cena           
+184       Marcin Kowalski               Matematyka+                   3         Matematyka                    56        20.01.2024 14:16:54      100            
+185       Marcin Kowalski               Matematyka+                   3         Matematyka                    56        20.01.2024 14:17:43      100            
+186       Marcin Kowalski               Matematyka+                   5         Matematyka                    56        20.01.2024 14:47:00      100            
+187       Marcin Kowalski               Matematyka+                   3         Matematyka                    58        20.01.2024 15:14:35      100            
+193       Marcin Kowalski               Matematyka+                   2         Matematyka                    56        20.01.2024 15:15:04      100            
+200       Marcin Kowalski               Matematyka+                   2         Matematyka                    56        20.01.2024 18:57:51      100            
+213       Marcin Kowalski               Matematyka+                   1         Matematyka                    56        22.01.2024 18:03:39      100            
+216       Marcin Kowalski               Matematyka+                   1         Matematyka                    56        22.01.2024 18:04:07      100            
+218       Marcin Kowalski               Matematyka+                   5         Matematyka                    56        22.01.2024 18:04:36      100            
+221       Marcin Kowalski               Matematyka+                   1         Matematyka                    56        22.01.2024 18:05:30      100            
+224       Marcin Kowalski               Matematyka+                   1         Matematyka                    56        22.01.2024 18:07:48      100            
+237       Marcin Kowalski               Matematyka+                   10        Matematyka                    56        22.01.2024 18:24:37      100            
+244       Marcin Kowalski               Matematyka+                   3         Matematyka                    56        22.01.2024 21:30:00      85             
+247       Marcin Kowalski               Matematyka+                   2         Matematyka                    56        22.01.2024 21:42:36      100            
+262       Marcin Kowalski               Matematyka+                   1         Matematyka                    56        22.01.2024 22:59:17      100            
+263       Marcin Kowalski               Matematyka+                   2         Matematyka                    56        22.01.2024 23:05:14      100            
+                                                                                                                                                                
